@@ -1,0 +1,34 @@
+Fish Head Soup,13
+Spinach With 3 Eggs,23
+Clear Soup with Bean Curd,4
+Spicy Catfish,0
+Fiery Pork Ribs Broth,3
+Spicy Mushroom Soup,5
+Shrimp Cakes,0
+Fried Fish-paste Balls,0
+Fried Chicken with Fish Sauce,0
+Fried Sun Dried Pork,0
+Fried Chinese Chives,0
+Fried Dumplings,0
+Stir Fried Pork Liver with Chinese Chives,0
+Stir Fried Pork with Shrimp Paste,0
+Stir Fried Pork Liver with Chili,1
+Stir Fried B.Egg with Basil,0
+Spicy Stir Fried Catfish,0
+Fried Tofu and Prawn Sauce,0
+Spicy Salmon Salad,0
+Salted Egg Spicy Salad,0
+Spicy Cockle Salad,0
+Shrimp Salad,20
+Blue Crab Salad,0
+Spicy Seafood Salad,0
+Pork Satay,0
+Sticky Rice,0
+Cooked Rice,0
+Large Cooked Rice,0
+Green Curry,4
+Panang Curry,46
+Kaeng Tae Po,1
+Fish Organs Sour Soup,5
+Kaeng Oom,5
+Massaman Curry,1

@@ -1,0 +1,5 @@
+[18, 'Fish Organs Sour Soup', 'Large', '5', 500, '05:25:34-20-Dec-2021', 'No']
+[19, 'Stir Fried Pork Liver with Chili', 'Medium', '1', 60, '05:27:51-20-Dec-2021', 'No']
+[21, 'Fish Head Soup', 'Medium', '2', 240, '17:10:21-20-Dec-2021', 'No']
+[21, 'Spinach With 3 Eggs', 'Medium', '2', 200, '17:10:22-20-Dec-2021', 'No']
+[23, 'Massaman Curry', 'Large', '1', 80, '17:29:09-20-Dec-2021', 'No']
